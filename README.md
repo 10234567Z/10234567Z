@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **anything in MERN or PERN stack!**
 
-- 📫 How to reach me **mouseantec@gmail.com**
+- 📫 How to reach me **sutharharsh291@gmail.com**
 
 - ⚡ Fun fact **A quick learner here!**
 
